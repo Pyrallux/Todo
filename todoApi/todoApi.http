@@ -1,0 +1,18 @@
+﻿@todoApi_HostAddress = http://localhost:5085
+
+###
+
+POST {{todoApi_HostAddress}}/todoitems
+Content-Type: application/json
+
+{
+    "text": "Doctors Appointment",
+    "day": "May 5th at 2:30pm",
+    "reminder": true
+}
+
+###
+
+GET {{todoApi_HostAddress}}/todoitems
+
+###
