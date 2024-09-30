@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t/BqM809voU=",
+  "dgSpecHash": "DbN5XIbnyYo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\nnnev\\desktop\\todoApi\\todoApi.csproj",
+  "projectFilePath": "C:\\Users\\nnnev\\Desktop\\Angular Todo\\todoApi\\todoApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nnnev\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\8.0.8\\microsoft.aspnetcore.diagnostics.entityframeworkcore.8.0.8.nupkg.sha512",
     "C:\\Users\\nnnev\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.8\\microsoft.entityframeworkcore.8.0.8.nupkg.sha512",

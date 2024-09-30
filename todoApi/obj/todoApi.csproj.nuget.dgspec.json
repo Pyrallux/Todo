@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nnnev\\desktop\\todoApi\\todoApi.csproj": {}
+    "C:\\Users\\nnnev\\Desktop\\Angular Todo\\todoApi\\todoApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nnnev\\desktop\\todoApi\\todoApi.csproj": {
+    "C:\\Users\\nnnev\\Desktop\\Angular Todo\\todoApi\\todoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nnnev\\desktop\\todoApi\\todoApi.csproj",
+        "projectUniqueName": "C:\\Users\\nnnev\\Desktop\\Angular Todo\\todoApi\\todoApi.csproj",
         "projectName": "todoApi",
-        "projectPath": "C:\\Users\\nnnev\\desktop\\todoApi\\todoApi.csproj",
+        "projectPath": "C:\\Users\\nnnev\\Desktop\\Angular Todo\\todoApi\\todoApi.csproj",
         "packagesPath": "C:\\Users\\nnnev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nnnev\\desktop\\todoApi\\obj\\",
+        "outputPath": "C:\\Users\\nnnev\\Desktop\\Angular Todo\\todoApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nnnev\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -30,3 +30,36 @@ C:\Users\nnnev\desktop\todoApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.In
 C:\Users\nnnev\desktop\todoApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\nnnev\desktop\todoApi\obj\Debug\net8.0\todoApi.csproj.AssemblyReference.cache
 C:\Users\nnnev\desktop\todoApi\obj\Debug\net8.0\todoApi.csproj.Up2Date
+C:\Users\nnnev\Desktop\Angular Todo\todoApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\nnnev\Desktop\Angular Todo\todoApi\bin\Debug\net8.0\appsettings.json
+C:\Users\nnnev\Desktop\Angular Todo\todoApi\bin\Debug\net8.0\todoApi.exe
+C:\Users\nnnev\Desktop\Angular Todo\todoApi\bin\Debug\net8.0\todoApi.deps.json
+C:\Users\nnnev\Desktop\Angular Todo\todoApi\bin\Debug\net8.0\todoApi.runtimeconfig.json
+C:\Users\nnnev\Desktop\Angular Todo\todoApi\bin\Debug\net8.0\todoApi.dll
+C:\Users\nnnev\Desktop\Angular Todo\todoApi\bin\Debug\net8.0\todoApi.pdb
+C:\Users\nnnev\Desktop\Angular Todo\todoApi\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\nnnev\Desktop\Angular Todo\todoApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nnnev\Desktop\Angular Todo\todoApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nnnev\Desktop\Angular Todo\todoApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\nnnev\Desktop\Angular Todo\todoApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nnnev\Desktop\Angular Todo\todoApi\obj\Debug\net8.0\todoApi.csproj.AssemblyReference.cache
+C:\Users\nnnev\Desktop\Angular Todo\todoApi\obj\Debug\net8.0\todoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nnnev\Desktop\Angular Todo\todoApi\obj\Debug\net8.0\todoApi.AssemblyInfoInputs.cache
+C:\Users\nnnev\Desktop\Angular Todo\todoApi\obj\Debug\net8.0\todoApi.AssemblyInfo.cs
+C:\Users\nnnev\Desktop\Angular Todo\todoApi\obj\Debug\net8.0\todoApi.csproj.CoreCompileInputs.cache
+C:\Users\nnnev\Desktop\Angular Todo\todoApi\obj\Debug\net8.0\todoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nnnev\Desktop\Angular Todo\todoApi\obj\Debug\net8.0\todoApi.sourcelink.json
+C:\Users\nnnev\Desktop\Angular Todo\todoApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\nnnev\Desktop\Angular Todo\todoApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\nnnev\Desktop\Angular Todo\todoApi\obj\Debug\net8.0\staticwebassets\msbuild.todoApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nnnev\Desktop\Angular Todo\todoApi\obj\Debug\net8.0\staticwebassets\msbuild.build.todoApi.props
+C:\Users\nnnev\Desktop\Angular Todo\todoApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.todoApi.props
+C:\Users\nnnev\Desktop\Angular Todo\todoApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.todoApi.props
+C:\Users\nnnev\Desktop\Angular Todo\todoApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\nnnev\Desktop\Angular Todo\todoApi\obj\Debug\net8.0\scopedcss\bundle\todoApi.styles.css
+C:\Users\nnnev\Desktop\Angular Todo\todoApi\obj\Debug\net8.0\todoApi.csproj.Up2Date
+C:\Users\nnnev\Desktop\Angular Todo\todoApi\obj\Debug\net8.0\todoApi.dll
+C:\Users\nnnev\Desktop\Angular Todo\todoApi\obj\Debug\net8.0\refint\todoApi.dll
+C:\Users\nnnev\Desktop\Angular Todo\todoApi\obj\Debug\net8.0\todoApi.pdb
+C:\Users\nnnev\Desktop\Angular Todo\todoApi\obj\Debug\net8.0\todoApi.genruntimeconfig.cache
+C:\Users\nnnev\Desktop\Angular Todo\todoApi\obj\Debug\net8.0\ref\todoApi.dll
