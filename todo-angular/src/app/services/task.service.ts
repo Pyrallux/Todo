@@ -13,7 +13,7 @@ const httpOptions = {
   providedIn: 'root',
 })
 export class TaskService {
-  private apiUrl = 'http://localhost:5085/todoitems';
+  private apiUrl = 'http://localhost:5000/todoitems';
 
   constructor(private http: HttpClient) {}
 

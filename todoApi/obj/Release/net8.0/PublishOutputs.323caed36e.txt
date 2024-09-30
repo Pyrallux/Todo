@@ -1,0 +1,12 @@
+C:\Users\nnnev\Desktop\Angular Todo\todoApi\bin\Release\net8.0\publish\todoApi.exe
+C:\Users\nnnev\Desktop\Angular Todo\todoApi\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\nnnev\Desktop\Angular Todo\todoApi\bin\Release\net8.0\publish\appsettings.json
+C:\Users\nnnev\Desktop\Angular Todo\todoApi\bin\Release\net8.0\publish\todoApi.dll
+C:\Users\nnnev\Desktop\Angular Todo\todoApi\bin\Release\net8.0\publish\todoApi.deps.json
+C:\Users\nnnev\Desktop\Angular Todo\todoApi\bin\Release\net8.0\publish\todoApi.runtimeconfig.json
+C:\Users\nnnev\Desktop\Angular Todo\todoApi\bin\Release\net8.0\publish\todoApi.pdb
+C:\Users\nnnev\Desktop\Angular Todo\todoApi\bin\Release\net8.0\publish\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\nnnev\Desktop\Angular Todo\todoApi\bin\Release\net8.0\publish\Microsoft.EntityFrameworkCore.dll
+C:\Users\nnnev\Desktop\Angular Todo\todoApi\bin\Release\net8.0\publish\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nnnev\Desktop\Angular Todo\todoApi\bin\Release\net8.0\publish\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\nnnev\Desktop\Angular Todo\todoApi\bin\Release\net8.0\publish\Microsoft.EntityFrameworkCore.Relational.dll
