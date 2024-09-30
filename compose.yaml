@@ -1,0 +1,15 @@
+services:
+  todo-webserver:
+    build:
+      context: ./WebServer
+    depends_on:
+      - todo-api
+    ports:
+      - 4200:4200
+    restart: always
+  todo-api:
+    build:
+      context: ./todoApi
+    ports:
+      - 8080:8080
+    restart: always
